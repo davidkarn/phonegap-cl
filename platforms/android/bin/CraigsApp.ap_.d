@@ -1,0 +1,25 @@
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/bin/CraigsApp.ap_ \
+ : /Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/res/drawable/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/res/drawable-hdpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/res/drawable-ldpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/res/drawable-mdpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/res/values/strings.xml \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/res/xml/config.xml \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/bin/res/drawable/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/bin/res/drawable-hdpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/bin/res/drawable-ldpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/bin/res/drawable-mdpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/config.xml \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/cordova.js \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/cordova_plugins.js \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/css \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/img \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/index.html \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/js \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/css/index.css \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/img/logo.png \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/assets/www/js/index.js \
+/Users/david/Dropbox/phonegap-workspace/phonegap-cl/platforms/android/bin/AndroidManifest.xml \
